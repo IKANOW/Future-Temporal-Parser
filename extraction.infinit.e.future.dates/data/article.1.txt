@@ -1,0 +1,43 @@
+in 2011 Computerworld - Apple today said it would ship Mac OS X 10.7, aka "Lion," next month, and sell it exclusively through its own Mac App Store for $29.99.
+
+The news came as CEO Steve Jobs introduced several other Apple executives during a keynote at the Worldwide Developers Conference (WWDC), which opened today in San Francisco. "If the hardware is the brain and the sinew of the product, the software in the middle is the soul," Jobs said at the beginning of the two-hour presentation.
+
+Philip Schiller, Apple's vice president of marketing, and Craig Federighi, the company's vice president of Mac software engineering, spelled out 10 of the new features in Lion (see our continuing coverage page), which Apple will release in July.
+
+Apple will offer Lion only through the Mac App Store, the e-mart that launched last January for Snow Leopard users. The upgrade will be a 4GB download.
+
+The 5 best features in Apple's iOS 5
+QuickPoll: Is iCloud B2C cloud perfection or merely Apple playing catch-up?
+Apple plays customer loyalty, anti-Google cards with iCloud, say analysts
+How the Apple iCloud compares to Google's cloud
+Apple offers preview of iCloud music feature
+How to upgrade to OS X Lion
+High on iCloud, Apple slates MobileMe's demise
+Apple's iCloud and iOS 5: New challenges for the enterprise
+Apple iOS 5 cuts iPhone, iPad loose from computers, embraces the cloud
+Jobs unveils free iCloud sync, storage service
+Complete coverage: WWDC 2011 
+
+The new operating system can be installed on all a user's personal Macs, said Apple, which puts an end to the multi-license Family Pack it's sold previously. And it will sell for $29.99, the same price as the Snow Leopard upgrade in 2009.
+
+Last week, analysts speculated that Apple would retain the low price for Lion.
+
+"Reducing the price [of Snow Leopard] did not negatively affect revenue," said Ezra Gottheil, an analyst with Technology Business Research, in an interview last Tuesday. "I expect them to offer a low-priced upgrade to Lion as well."
+
+Doing so would let Apple again contrast its upgrade pricing with Microsoft's, as it did in 2009 prior to the debut of Windows 7, Gottheil added.
+
+Lion will ship in July, but Schiller did not put a specific date to the release. Developers can download a new preview -- there have been several issued since earlier this year -- starting today.
+
+Most of the features Schiller and Federighi demonstrated were ones Apple disclosed last year when it first announced Lion, including full screen applications, a tool dubbed "Mission Control" that combines several previously-separate interface elements into a single screen, and Mac App Store, the online e-mart Apple launched last January for Snow Leopard users.
+
+"This stuff is useful, but it looks even more useful than it is, and that's going to sell Macs," said Gottheil in a Twitter message posted during the Lion demo.
+
+In Lion, the Mac App Store will get additional features, said Schiller, including in-app purchases -- similar to what's available in iOS' own App Store -- push notifications, and anti-exploit "sandbox" technology that isolates those apps from the rest of the Mac.
+
+Lion will feature additional tools, such as system-wide automatic document save, the ability to revert to an earlier version of a document, and a resume mode that restores a previously-closed application to the state before it was shut down.
+
+During the WWDC keynote, Apple also revealed its iCloud service and ran through several of the new features slated for iOS 5, the mobile operating system upgrade scheduled to ship this fall.
+
+But Gottheil was more impressed with Lion than with iOS 5.
+
+"So far, Lion innovations are far ahead of iOS innovations," Gottheil said, again on Twitter. "As Spock would say ... 'interesting.'"
